@@ -6,7 +6,7 @@
 
 # Demo :movie_camera:
 
-![httpsgithub abusaid me](https://github.com/AdityaRoy999/Portfolio/blob/main/ps.png)
+![httpsgithub abusaid me](https://github.com/AdityaRoy999/AR/blob/main/ps.png)
 
 
 ## View live preview [here](https://my-github-portfolio.netlify.app/)
