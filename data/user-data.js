@@ -6,7 +6,7 @@ export const userData = {
   linkedIn: 'https://www.linkedin.com/in/aditya-roy-0492ab26b/',
   twitter: 'https://x.com/AdityaRoy117297',
   leetcode: "https://leetcode.com/u/aditya_roy5959/",
-  resume: "https://drive.google.com/file/d/1-aa8tCZu10pUn-kJeKSHJEjOOo2Z3GwI/view",
+  resume: "https://drive.google.com/file/d/1zCtkg-HBczYm4krQHIiZi7vxLGDcv7Zl/view?usp=drive_link",
   skills: ['Python','Java','C++','OpenCV','MatPlotlib','HTMl(5)'],
   timezone: '+6'
 };
